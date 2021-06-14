@@ -1,0 +1,9 @@
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\bin\Debug\netstandard2.0\ShopBridge.Data.deps.json
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\bin\Debug\netstandard2.0\ShopBridge.Data.dll
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\bin\Debug\netstandard2.0\ShopBridge.Data.pdb
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\obj\Debug\netstandard2.0\ShopBridge.Data.csprojAssemblyReference.cache
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\obj\Debug\netstandard2.0\ShopBridge.Data.AssemblyInfoInputs.cache
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\obj\Debug\netstandard2.0\ShopBridge.Data.AssemblyInfo.cs
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\obj\Debug\netstandard2.0\ShopBridge.Data.csproj.CoreCompileInputs.cache
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\obj\Debug\netstandard2.0\ShopBridge.Data.dll
+C:\Users\jainsi\source\repos\WebApplication1\DataLayer\obj\Debug\netstandard2.0\ShopBridge.Data.pdb
